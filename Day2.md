@@ -4,17 +4,16 @@
 4. git config user.email email
 5. touch --> Creating files
 6. echo data > fileName
-
-- git clone RemoteRepoURL
-- ls
-- cd projectName
-- git config user.name "Your User Name"
-- git config user.email "Your Email"
-- touch FileName
-- echo data >> FileName
-- git status
-- git add FileName
-- git commit -m "Message"
-- git remote add alais repoUrl
-- git push alais main
-- login
+1. git clone RemoteRepoURL
+1. ls
+1. cd projectName
+1. git config user.name "Your User Name"
+1. git config user.email "Your Email"
+1. touch FileName
+1. echo data >> FileName
+1. git status
+1. git add FileName
+1. git commit -m "Message"
+1. git remote add alais repoUrl
+1. git push alais main
+1. login
